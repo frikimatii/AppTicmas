@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt1">Ingrese texto1</string>
+    <string name="txt2">Ingrese texto2</string>
+    <string name="comparar">Comparar</string>
+    <string name="titulo">"Proyecto de Desarollo de aplicacion "</string>
+
+</resources>
